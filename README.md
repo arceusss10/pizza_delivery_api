@@ -1,4 +1,4 @@
-# 🍕 Pizza Delivery API
+#  Pizza Delivery API
 
 A secure, production-ready backend service for a pizza delivery application, built with **FastAPI**, **PostgreSQL**, and **JWT authentication**. It supports user registration/login, role-based access, and complete order management capabilities for both users and staff.
 
