@@ -85,12 +85,5 @@ engine=create_engine('postgresql://postgres:<username>:<password>@localhost/<db_
 
 ---
 
-##  Authentication
 
-- All protected routes require the JWT token in the request headers:
-```
-Authorization: Bearer <access_token>
-```
-
-- Access and refresh tokens are returned upon login. Use `/auth/refresh` to get a new access token.
 
